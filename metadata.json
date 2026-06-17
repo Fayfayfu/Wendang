@@ -1,0 +1,8 @@
+{
+  "name": "稳当文档",
+  "description": "稳当文档 - 高质量文档分享与任务对接平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
